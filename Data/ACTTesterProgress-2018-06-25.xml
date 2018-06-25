@@ -1,0 +1,51 @@
+<graph caption='Tester Progress' subcaption='' hovercapbg='FFECAA' hovercapborder='F47E00' formatNumberScale='0' decimalPrecision='0' showvalues='1' numdivlines='5' numVdivlines='0' yaxisminvalue='0' yaxismaxvalue='80' rotateNames='1' showAlternateHGridColor='1' AlternateHGridColor='ff5904' divLineColor='ff5904' divLineAlpha='20' alternateHGridAlpha='5'> 
+<categories >
+<category name='2018-05-27 - 2018-06-02' />
+<category name='2018-06-03 - 2018-06-09' />
+<category name='2018-06-10 - 2018-06-16' />
+<category name='2018-06-17 - 2018-06-23' />
+<category name='2018-06-24 - 2018-06-30' />
+</categories>
+<dataset seriesName='aashok' color='D2691E' anchorBorderColor='D2691E' anchorBgColor='D2691E'>
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='2' />
+<set value='0' />
+</dataset>
+<dataset seriesName='kshanmugam' color='87CEEB' anchorBorderColor='87CEEB' anchorBgColor='87CEEB'>
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+</dataset>
+<dataset seriesName='pankireddy' color='7B68EE' anchorBorderColor='7B68EE' anchorBgColor='7B68EE'>
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+</dataset>
+<dataset seriesName='ssaladi' color='00FF00' anchorBorderColor='00FF00' anchorBgColor='00FF00'>
+<set value='0' />
+<set value='0' />
+<set value='17' />
+<set value='2' />
+<set value='0' />
+</dataset>
+<dataset seriesName='rheppalraj' color='7CFC00' anchorBorderColor='7CFC00' anchorBgColor='7CFC00'>
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+</dataset>
+<dataset seriesName='mthamatapu' color='F0FFF0' anchorBorderColor='F0FFF0' anchorBgColor='F0FFF0'>
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+<set value='0' />
+</dataset>
+</graph>
